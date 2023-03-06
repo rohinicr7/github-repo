@@ -6,4 +6,4 @@
 	s.o.p("enter user password")
 	read password
 	           }
-Today is sunday
+Today is monday

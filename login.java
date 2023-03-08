@@ -7,3 +7,4 @@
 	read password
 	           }
 Today is monday
+08 is wednesday
